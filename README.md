@@ -59,6 +59,3 @@
 
 ---
 
-## 📝 How to Use This Repo
-
-1. **Clone it**:  
