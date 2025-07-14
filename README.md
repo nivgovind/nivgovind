@@ -16,10 +16,9 @@ Resourceful Masters of Science (Information systems) graduate with 5+ years of e
 
 ## 🏆 Career Highlights
 
-- **Process Optimization:** Reduced missed sessions by 20% for clinical trials at MGH through data analytics and workflow redesign.
 - **Digital Health:** Enhanced onboarding for non-English speakers, increasing digital platform adoption by 30%.
 - **Automation:** Developed NLP-based support ticketing, reducing manual review time by 45%.
-- **Cloud & DevOps:** Managed AWS/Azure infrastructure, implemented CI/CD pipelines, and maintained HIPAA-compliant platforms.
+- **Cloud & DevOps:** Managed AWS/Azure infrastructure, implemented CI/CD pipelines, and maintained HIPAA-compliant / GDPR compliant platforms.
 - **Stakeholder Management:** Led workshops and agile sprints, improving engagement and project outcomes.
 
 ---
@@ -46,7 +45,7 @@ Resourceful Masters of Science (Information systems) graduate with 5+ years of e
 - **Compliance:** HIPAA, IRB, Responsible AI
 
 ---
-## 🧑‍💻 AI Community Leadership & Open Source
+## 🧑‍💻 Community Leadership & Open Source
 
 - Led hands-on workshops and mentored new AI practitioners at Unherd, focusing on practical ML and responsible AI.  
 - Delivered sessions on AI fundamentals, ethics, and open-source collaboration to build confidence in early-career developers.  
