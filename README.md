@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Niv Govind
 
-**Business Analyst | Data-Driven Strategy | AI & Automation | Digital Health**
+**Data-Driven Strategy | AI & Automation | Digital Health**
 
 Boston, MA | Open to relocation  
 [Portfolio](#) · [GitHub](https://github.com/nivgovind) · [LinkedIn](#)  
