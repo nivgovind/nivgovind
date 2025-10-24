@@ -15,11 +15,9 @@ Resourceful Masters of Science (Information systems) graduate with 5+ years of e
 ---
 
 ## 🏆 Career Highlights
-
-- **Digital Health:** Enhanced onboarding for non-English speakers, increasing digital platform adoption by 30%.
 - **Automation:** Developed NLP-based support ticketing, reducing manual review time by 45%.
 - **Cloud & DevOps:** Managed AWS/Azure infrastructure, implemented CI/CD pipelines, and maintained HIPAA-compliant / GDPR compliant platforms.
-- **Stakeholder Management:** Led workshops and agile sprints, improving engagement and project outcomes.
+- **Stakeholder Management:** Led client meetings, workshops and agile sprints, improving engagement and project outcomes.
 
 ---
 
