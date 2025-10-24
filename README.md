@@ -15,17 +15,20 @@ Resourceful Masters of Science (Information systems) graduate with 5+ years of e
 ---
 
 ## 🏆 Career Highlights
-- **Automation:** Developed NLP-based support ticketing, reducing manual review time by 45%.
-- **Cloud & DevOps:** Managed AWS/Azure infrastructure, implemented CI/CD pipelines, and maintained HIPAA-compliant / GDPR compliant platforms.
-- **Stakeholder Management:** Led client meetings, workshops and agile sprints, improving engagement and project outcomes.
+I am analyst and a knowledge worker, currently focused on identifying and analyzing the potential in data and emerging tools and frameworks. Love figuring out new challenges and making an impact.
 
+My recent coursework include big data systems, high-performance computing, business analytics. API development (Django / FastAPI), and workflow automation, non technical course work such as formal training in managerial communications, business process engineering (covering agile etc.)
+
+I have previously working with web development (ruby on rails, react, html/css), setting up automations (UIPath, Automation anywhere), API development (Django, FastAPI), analytics projects (Python libraries (airflow, n8n, seaborn, etc) in CRM, banking (fintech) and now healthcare.
+
+Personally, I’m driven by free food, accessible tech for all and currently working toward my Level 3000 “monk developer” status (I made that up) in Python.
 ---
 
 ## 💼 Experience
 
 | Organization                  | Role                               | Duration                | Key Achievements                                                                 |
 |-------------------------------|------------------------------------|-------------------------|----------------------------------------------------------------------------------|
-| Massachusetts General Hospital | Analyst Intern (Graduate Co-op)    | Jan 2025 – May 2025     | Accessibility analytics, ETL automation, dashboarding, compliance, digital health |
+| Massachusetts General Hospital | Analyst Intern (Graduate Co-op)    | Jan 2025 – present     | Accessibility analytics, ETL automation, dashboarding, compliance, digital health |
 | Northeastern University       | Graduate Teaching Assistant        | Sept 2024 – Dec 2024    | Facilitated understanding of business analysis methodologies and technical proficiency in SQL, ER modeling, and process mapping students                  |
 | Hellonext app (FeatureOS)     | Business Analyst (SaaS, Automation)| July 2020 – Nov 2022    | Product features, Power BI dashboards, NLP automation, cloud infrastructure       |
 | First Abu Dhabi Bank          | Business Analyst                   | June 2019 – June 2020   | Post-merger process optimization, RPA, cloud migration, KPI reporting            |
