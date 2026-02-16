@@ -8,22 +8,6 @@ _Email: nivgovind10@gmail.com_
 
 ---
 
-## 🚀 About Me
-
-Resourceful Masters of Science (Information systems) graduate with 5+ years of experience across healthcare, SaaS, and financial services. I specialize in process optimization, requirements gathering, and AI-driven automation. My skills extends to translating business needs into actionable, data-driven solutions and lead cross-functional teams to deliver measurable impact.
-
----
-
-## 🏆 Career Highlights
-I am analyst and a knowledge worker, currently focused on identifying and analyzing the potential in data and emerging tools and frameworks. Love figuring out new challenges and making an impact.
-
-My recent coursework include big data systems, high-performance computing, business analytics. API development (Django / FastAPI), and workflow automation, non technical course work such as formal training in managerial communications, business process engineering (covering agile etc.)
-
-I have previously working with web development (ruby on rails, react, html/css), setting up automations (UIPath, Automation anywhere), API development (Django, FastAPI), analytics projects (Python libraries (airflow, n8n, seaborn, etc) in CRM, banking (fintech) and now healthcare.
-
-Personally, I’m driven by free food, accessible tech for all and currently working toward my Level 3000 “monk developer” status (I made that up) in Python.
----
-
 ## 💼 Experience
 
 | Organization                  | Role                               | Duration                | Key Achievements                                                                 |
